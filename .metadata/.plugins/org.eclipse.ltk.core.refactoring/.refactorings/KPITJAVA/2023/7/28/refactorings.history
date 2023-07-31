@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;hello&apos; to &apos;jungle.cave&apos;&#x0D;&#x0A;- Original project: &apos;KPITJAVA&apos;&#x0D;&#x0A;- Original element: &apos;KPITJAVA/src/hello&apos;&#x0D;&#x0A;- Renamed element: &apos;KPITJAVA/src/jungle.cave&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;hello&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;hello" name="jungle.cave" qualified="false" references="true" stamp="1688882514697" textual="false" version="1.0"/>
+</session>
